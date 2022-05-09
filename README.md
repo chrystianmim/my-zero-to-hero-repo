@@ -11,4 +11,5 @@ no symbol means i haven't started to learn that technology yet
 
 ## Links
 
-Github markdown symbols https://gist.github.com/rxaviers/7360908
+Markdown basic syntax: https://www.markdownguide.org/basic-syntax/#lists-1
+Github markdown symbols: https://gist.github.com/rxaviers/7360908
