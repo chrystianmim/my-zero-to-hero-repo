@@ -1,10 +1,22 @@
-## My Zero-to-Hero Repository.
-### Here is where I'll mark the technologies I know, I'm learning and I'll learn. It's basic and I'll maybe improve it with time.
+## My Zero-to-Hero Roadmap Repository.
+### Here is where I'll mark the technologies I know, I'm learning and I'll learn in my personal technologies roadmap.
 
 - HTML5 :white_check_mark:
+  - Basics :white_check_mark:
+  - Main level tags (meta, link, script, etc) :white_check_mark:
+  - Semantic tags (aside, nav, footer, etc) :white_check_mark:
+  - Lists :white_check_mark:
+  - Tables :white_check_mark:
+  - Forms :white_check_mark:
+  - Events :white_check_mark:
+  - Canvas, video, audio :black_circle:
+
 - CSS3 :large_orange_diamond:
+  - CSS basics :white_check_mark:
   - Flex box :white_check_mark:
   - Grid
+  - Responsiveness
+
 - JavaScript
   - Basic syntax :white_check_mark:
   - DOM manipulation :white_check_mark:
@@ -22,9 +34,10 @@
   - MySQL
   - Postgress
 
-:white_check_mark: means I've studied this technology  
-:large_orange_diamond: means It's in progress  
-[no symbol] means I haven't started to learn that technology yet
+:white_check_mark: topic completed  
+:large_orange_diamond: in progress  
+:black_circle: intentionally missed  
+[no symbol] zero to little knowledge about the topic
 
 ## Links
 
