@@ -1,5 +1,5 @@
 ## My Zero-to-Hero Roadmap Repository.
-### Here is where I'll mark the technologies I know, I'm learning and I'll learn in my personal technologies roadmap.
+### Here is my personal programming roadmap. I'll list the technologies I know, I'm learning and will learn.
 
 - HTML5 :white_check_mark:
   - Basics :white_check_mark:
@@ -12,27 +12,41 @@
   - Canvas, video, audio :black_circle:
 
 - CSS3 :large_orange_diamond:
-  - CSS basics :white_check_mark:
+  - CSS3 basics :white_check_mark:
   - Flex box :white_check_mark:
   - Grid
   - Responsiveness
+  - SASS
+  - Bootstrap
 
-- JavaScript
+- JavaScript :large_orange_diamond:
   - Basic syntax :white_check_mark:
   - DOM manipulation :white_check_mark:
-  - Event listener :white_check_mark:
+  - Events listeners :white_check_mark:
+  - String methods
+  - String search
+  - Number methods
+  - Array methods
+  - Dates
+  - Error handling
+  - Arrow functions
+  - Asynchronous JavaScript (async/await)
   - JavaScript OOP
+  - jQuery
   - ReactJS
   - Node.js
-- Java
-  - Syntax
+
+- Java :large_orange_diamond:
+  - Basic syntax
   - Java OOP
   - Spring / Spring Boot
+
 - PHP
   - Basic syntax :white_check_mark:
+
 - SQL
-  - MySQL
-  - Postgress
+  - MySQL :large_orange_diamond:
+  - PostgreSQL :large_orange_diamond:
 
 :white_check_mark: topic completed  
 :large_orange_diamond: in progress  
