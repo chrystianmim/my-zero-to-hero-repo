@@ -49,7 +49,7 @@
 - npm
 
 - Java :large_orange_diamond:
-  - Syntax
+  - Syntax :large_orange_diamond:
   - Basic Java
   - Java OOP
   - Packages
