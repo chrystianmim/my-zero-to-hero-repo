@@ -13,32 +13,48 @@
 
 - CSS3 :large_orange_diamond:
   - CSS3 basics :white_check_mark:
-  - Flex box :white_check_mark:
+  - Flexbox :white_check_mark:
   - Grid
   - Responsiveness
-  - SASS
-  - Bootstrap
+  - Pseudo-elements :black_circle:
+  - Basic animations :large_orange_diamond:
+  - SASS :black_circle:
+  - Bootstrap :large_orange_diamond:
+
+- Git :white_check_mark:
+  - Basic Git commands :white_check_mark:
+  - Github :white_check_mark:
 
 - JavaScript :large_orange_diamond:
   - Basic syntax :white_check_mark:
   - DOM manipulation :white_check_mark:
-  - Events listeners :white_check_mark:
-  - String methods
+  - Events listener :white_check_mark:
+  - String methods :large_orange_diamond:
   - String search
   - Number methods
-  - Array methods
+  - Array methods :large_orange_diamond:
   - Dates
-  - Error handling
-  - Arrow functions
+  - Exception handling
+  - Arrow functions :large_orange_diamond:
   - Asynchronous JavaScript (async/await)
-  - JavaScript OOP
+  - JavaScript OOP :large_orange_diamond:
   - jQuery
-  - ReactJS
-  - Node.js
+
+- TypeScript
+
+- ReactJS
+
+- Node.js
+
+- npm
 
 - Java :large_orange_diamond:
-  - Basic syntax
+  - Syntax
+  - Basic Java
   - Java OOP
+  - Packages
+  - Files and APIs
+  - Exception handling
   - Spring / Spring Boot
 
 - PHP
