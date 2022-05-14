@@ -40,13 +40,15 @@
   - JavaScript OOP :large_orange_diamond:
   - jQuery
 
-- TypeScript
-
 - ReactJS
 
 - Node.js
 
 - npm
+
+- TypeScript :black_circle:
+
+- Angular :black_circle:
 
 - Java :large_orange_diamond:
   - Syntax :large_orange_diamond:
@@ -57,17 +59,17 @@
   - Exception handling
   - Spring / Spring Boot
 
-- PHP
+- PHP :large_orange_diamond:
   - Basic syntax :white_check_mark:
 
-- SQL
+- SQL :large_orange_diamond:
   - MySQL :large_orange_diamond:
   - PostgreSQL :large_orange_diamond:
 
 :white_check_mark: topic completed  
 :large_orange_diamond: in progress  
-:black_circle: intentionally missed  
-[no symbol] zero to little knowledge about the topic
+:black_circle: optional 
+[no symbol] zero to very little knowledge about the topic
 
 ## Links
 
